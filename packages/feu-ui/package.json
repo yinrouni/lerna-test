@@ -22,5 +22,11 @@
   },
   "bugs": {
     "url": "https://github.com/yinrouni/lerna-test/issues"
+  },
+  "devDependencies": {
+    "chalk": "^4.0.1"
+  },
+  "dependencies": {
+    "feu-tools": "^0.0.0"
   }
 }

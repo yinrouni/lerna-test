@@ -1,7 +1,12 @@
 'use strict';
 
-module.exports = feuApp;
+const { min } = require('feu-tools');
+const ui = require("feu-ui");
 
-function feuApp() {
-    // TODO
+function app() {
+    console.log("app主入口");
+    let minNum = min(2, 5);
+    ui(minNum);
 }
+
+app();
