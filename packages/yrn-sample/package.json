@@ -1,6 +1,6 @@
 {
   "name": "yrn-sample",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "霓君 <yinrouni.yrn@antgroup.com>",
   "homepage": "https://github.com/yinrouni/lerna-test#readme",
@@ -22,6 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/yinrouni/lerna-test/issues"
-  }, 
+  },
   "private": true
 }
