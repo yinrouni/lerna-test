@@ -1,5 +1,5 @@
 {
-  "name": "feu-app",
+  "name": "yrn-app",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "霓君 <yinrouni.yrn@antgroup.com>",
@@ -24,7 +24,7 @@
     "url": "https://github.com/yinrouni/lerna-test/issues"
   },
   "dependencies": {
-    "feu-tools": "^0.0.1",
-    "feu-ui": "^0.0.1"
+    "yrn-tools": "^0.0.1",
+    "yrn-ui": "^0.0.1"
   }
 }

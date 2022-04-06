@@ -1,5 +1,5 @@
 {
-  "name": "feu-ui",
+  "name": "yrn-ui",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "霓君 <yinrouni.yrn@antgroup.com>",
@@ -27,6 +27,6 @@
     "chalk": "^4.0.1"
   },
   "dependencies": {
-    "feu-tools": "^0.0.1"
+    "yrn-tools": "^0.0.1"
   }
 }
