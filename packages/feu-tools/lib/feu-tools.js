@@ -2,7 +2,8 @@
 
 function add(a, b) {
 	console.log("tools库，调用函数add,入参：%d, %d",a ,b);
-    console.log('change one pkg')
+    console.log('change one pkg', 'change');
+
     return a + b;
 }
 function min(a, b) {
