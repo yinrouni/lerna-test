@@ -1,6 +1,6 @@
 {
   "name": "yrn-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "霓君 <yinrouni.yrn@antgroup.com>",
   "homepage": "https://github.com/yinrouni/lerna-test#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/yinrouni/lerna-test/issues"
   },
   "dependencies": {
-    "yrn-tools": "^0.0.2",
-    "yrn-ui": "^0.0.2"
+    "yrn-tools": "^0.0.3",
+    "yrn-ui": "^0.0.3"
   }
 }
