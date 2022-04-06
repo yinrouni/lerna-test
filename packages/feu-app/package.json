@@ -1,6 +1,6 @@
 {
   "name": "@yinrouni/yrn-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "霓君 <yinrouni.yrn@antgroup.com>",
   "homepage": "https://github.com/yinrouni/lerna-test#readme",
@@ -26,7 +26,7 @@
   "dependencies": {
     "yrn-tools": "^0.0.3",
     "yrn-ui": "^0.0.3"
-  }, 
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
