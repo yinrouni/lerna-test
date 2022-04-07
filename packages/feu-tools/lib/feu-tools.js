@@ -2,7 +2,7 @@
 
 function add(a, b) {
 	console.log("tools库，调用函数add,入参：%d, %d",a ,b);
-    console.log('change one pkg', 'change');
+    console.log('change one pkg', 'change222');
 
     return a + b;
 }

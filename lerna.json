@@ -1,7 +1,8 @@
 {
   "packages": [
-    "packages/*"
+    "packages/feu-tools", 
+    "packages/feu-ui"
   ],
-  
+
   "version": "independent"
 }
