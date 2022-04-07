@@ -1,6 +1,6 @@
 {
   "name": "yrn-ui",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "霓君 <yinrouni.yrn@antgroup.com>",
   "homepage": "https://github.com/yinrouni/lerna-test#readme",
@@ -27,6 +27,6 @@
     "chalk": "^4.0.1"
   },
   "dependencies": {
-    "yrn-tools": "^0.0.4"
+    "yrn-tools": "^0.0.5"
   }
 }
